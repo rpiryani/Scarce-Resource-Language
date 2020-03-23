@@ -10,6 +10,7 @@ Furthermore, we have implemented Deep learning Models: <b>Convolution Neural Net
 
 It is observed that Lexicon-based approach has outperformed than Conventional Machine Learning models and Deep learning models have performed better than Conventional Machine Learning models and Lexicon based approach.
 </p>
+
 ## Cite
 <p>
 Rajesh Piryani, Bhawna Piryani, Vivek Kumar Singh, David Pinto, “Sentiment Analysis in Nepali: Exploring Machine Learning and Lexicon-based Approaches”. Accepted in Journal of Intelligent and Fuzzy Systems, IOS Press. (Impact Factor: 1.637)
