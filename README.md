@@ -13,5 +13,5 @@ It is observed that Lexicon-based approach has outperformed than Conventional Ma
 
 ## Cite
 <p>
-Rajesh Piryani, Bhawna Piryani, Vivek Kumar Singh, David Pinto, “Sentiment Analysis in Nepali: Exploring Machine Learning and Lexicon-based Approaches”. Published in Journal of Intelligent and Fuzzy Systems, IOS Press. (Impact Factor: 1.637)
+Rajesh Piryani, Bhawna Piryani, Vivek Kumar Singh, David Pinto, <b>“Sentiment Analysis in Nepali: Exploring Machine Learning and Lexicon-based Approaches”.</b> Published in Journal of Intelligent and Fuzzy Systems, IOS Press. (Impact Factor: 1.637)
 </p>
